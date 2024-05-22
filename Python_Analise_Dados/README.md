@@ -1,4 +1,4 @@
-#INSTITUTO FEDERAL DO PIAUÍ - Campus Teresina Central
+INSTITUTO FEDERAL DO PIAUÍ - Campus Teresina Central
 
 Curso: Curso Superior de Tecnologia em Geoprocessamento
 
