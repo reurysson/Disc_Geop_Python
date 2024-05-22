@@ -1,4 +1,4 @@
-# Disciplinas_IFPI
+# Introdução à Linguagem Python para Análise de Dados
 
 INSTITUTO FEDERAL DO PIAUÍ - Campus Teresina Central
 
